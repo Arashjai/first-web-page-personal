@@ -1,2 +1,4 @@
 /next*
+!next.config.ts
+/.next/
 /node*
